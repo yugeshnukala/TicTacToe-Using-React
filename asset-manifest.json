@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Tictactoe-using-React/static/css/main.e8b8a7e3.chunk.css",
+    "main.js": "/Tictactoe-using-React/static/js/main.2080581a.chunk.js",
+    "main.js.map": "/Tictactoe-using-React/static/js/main.2080581a.chunk.js.map",
+    "runtime-main.js": "/Tictactoe-using-React/static/js/runtime-main.b84fd4b1.js",
+    "runtime-main.js.map": "/Tictactoe-using-React/static/js/runtime-main.b84fd4b1.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Tictactoe-using-React/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.96a7d7d8.chunk.js": "/Tictactoe-using-React/static/js/2.96a7d7d8.chunk.js",
+    "static/js/2.96a7d7d8.chunk.js.map": "/Tictactoe-using-React/static/js/2.96a7d7d8.chunk.js.map",
+    "index.html": "/Tictactoe-using-React/index.html",
+    "precache-manifest.8ad3dd8d81d1c2f297c81de11f7e9386.js": "/Tictactoe-using-React/precache-manifest.8ad3dd8d81d1c2f297c81de11f7e9386.js",
+    "service-worker.js": "/Tictactoe-using-React/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Tictactoe-using-React/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.e8b8a7e3.chunk.css.map": "/Tictactoe-using-React/static/css/main.e8b8a7e3.chunk.css.map",
+    "static/js/2.96a7d7d8.chunk.js.LICENSE.txt": "/Tictactoe-using-React/static/js/2.96a7d7d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b84fd4b1.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.96a7d7d8.chunk.js",
+    "static/css/main.e8b8a7e3.chunk.css",
+    "static/js/main.2080581a.chunk.js"
+  ]
+}
